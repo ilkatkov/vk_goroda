@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # создание базы данных и таблицы для Города (vk version)
 
 # импорт библиотек
@@ -71,4 +70,3 @@ cursor.execute("""CREATE TABLE cities (city TEXT)""")
 conn.commit()
 
 print("OK")
->>>>>>> d208c912f5c0e2e42da463cc7d4d83c9d99f5894
