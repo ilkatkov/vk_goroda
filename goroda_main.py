@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Goroda / Cities (vk version)
 # Alt+3 Studio
 # Ilya Katkov
@@ -480,4 +479,3 @@ while True:
     except Exception as ex:
         continue
 # ---ОСНОВНОЙ ЦИКЛ ИГРЫ---#
->>>>>>> d208c912f5c0e2e42da463cc7d4d83c9d99f5894
