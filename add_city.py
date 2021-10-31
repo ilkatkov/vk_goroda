@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sqlite3
 
 # инициализация 
@@ -26,4 +25,4 @@ cursor.execute(query)
 print("Gorod dobavlen!")
 
 conn.commit()
->>>>>>> d208c912f5c0e2e42da463cc7d4d83c9d99f5894
+
