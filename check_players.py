@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import sqlite3
 
 # инициализация db.sqlite
@@ -23,4 +22,3 @@ l = cursor.fetchall()
 l = sorted(l, key = lambda points: int(points[3]), reverse=True)
 for i in l:
     print(i)
->>>>>>> d208c912f5c0e2e42da463cc7d4d83c9d99f5894
